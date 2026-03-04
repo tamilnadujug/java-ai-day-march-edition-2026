@@ -2,7 +2,7 @@
 
 **Venue:** EPAM Coimbatore  
 **Time:** 9:30 AM – 5:00 PM  
-*Date: TBC*
+*Date: 7th March 2026*
 
 ---
 
@@ -19,6 +19,6 @@
 | 12:15 – 12:25 | 10 min | Price distribution |
 | 12:25 – 1:10 | 45 min | Deepak (EPAM) – Talk |
 | 1:10 – 1:55 | 45 min | **Lunch** |
-| 1:55 – 5:00 | 3h 5min | Spring AI Workshop |
+| 1:55 – 5:30 | 3h 35min | Spring AI Workshop |
 
 
