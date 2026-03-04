@@ -12,3 +12,14 @@ We are delighted to announce the winners of the books.
 | Giridharan R   | Clean Code          | Samir   | For insightful questions during the Q&A session  |
 | Karthika        | DSA                 | Samir               | Supporting Ression initiative taken by the community                  |
 
+Community
+Karthiga - DSA
+
+Ressiion
+Raghavan - DB
+Fairoz - MC
+
+Open Source Lab
+Geetha      - Clean Code
+Rohan       - Modern Cun
+Keerthana and Sindhu - DSA
