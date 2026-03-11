@@ -1,4 +1,4 @@
-# Price Distribution Plan
+# Prize Distribution Plan
 
 ## Clean Code Book Winners
 
